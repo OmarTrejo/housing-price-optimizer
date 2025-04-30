@@ -77,6 +77,7 @@ To run the notebook, install the required Python libraries by executing the foll
 
 ```bash
 pip install pandas numpy scikit-learn xgboost matplotlib seaborn joblib
+```
 
 ## 🧰 Dependencies
 
